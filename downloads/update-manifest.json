@@ -1,0 +1,10 @@
+{
+  "version": "1.2.0",
+  "exe_url": "https://raw.githubusercontent.com/alphagrowthltda/siteseller/main/downloads/SiteSeller%20Web.exe",
+  "installer_url": "https://raw.githubusercontent.com/alphagrowthltda/siteseller/main/downloads/SiteSeller-Pro-Installer-1.2.0.exe",
+  "release_notes": [
+    "Versao com modo aplicativo e modo navegador no mesmo instalador",
+    "Correcoes de contraste nas mensagens e no chat do assistente",
+    "Assistente AI ligado ao backend com fallback local"
+  ]
+}
